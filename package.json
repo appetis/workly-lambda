@@ -1,0 +1,12 @@
+{
+  "name": "workly-lambda",
+  "version": "1.0.0",
+  "description": "Image resizing lambda function for avatars",
+  "main": "index.js",
+  "author": "Appetis",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1023.0",
+    "sharp": "^0.29.2"
+  }
+}
